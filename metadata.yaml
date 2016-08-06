@@ -1,0 +1,35 @@
+_repo: The-History-of-Rome-Books-09-to-26--13-Literally-Translated-with-Notes-and-Illustrations-by-D__10907
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Spillan, D. (Daniel)
+    alias: Spillan, Daniel
+    deathdate: 1854
+    gutenberg_agent_id: '37622'
+    url: http://www.gutenberg.org/2009/agents/37622
+  - agent_name: Edmonds, Cyrus R.
+    gutenberg_agent_id: '37624'
+    url: http://www.gutenberg.org/2009/agents/37624
+creator:
+  author:
+    agent_name: Livy
+    alias: Livius, Titus
+    gutenberg_agent_id: '3707'
+    url: http://www.gutenberg.org/2009/agents/3707
+    wikipedia: http://en.wikipedia.org/wiki/Livy
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History'
+- !lcc 'DG'
+- GITenberg
+title: "The History of Rome, Books 09 to 26\r\nLiterally Translated, with Notes and\
+  \ Illustrations, by D. Spillan and Cyrus Edmonds"
+url: http://www.gutenberg.org/ebooks/10907
